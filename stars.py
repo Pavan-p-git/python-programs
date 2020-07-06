@@ -8,3 +8,6 @@ for i in range(0,n):
       print()
 
 
+#this program will print the pattern stars as much user needs
+
+

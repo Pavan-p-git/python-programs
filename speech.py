@@ -1,6 +1,6 @@
 # Python program to translate 
 # speech to text and text to speech 
-
+#simple error in this program
 
 import speech_recognition as sr 
 import pyttsx3 
